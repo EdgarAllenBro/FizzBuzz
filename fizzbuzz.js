@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let z  = 1
 while (z < 51) {
 if (z % 5 === 0 && z % 3 === 0) {
@@ -14,7 +15,6 @@ else {
 }
   z++
 }
-
 
 for(let num = 1; num <= 15; num++){
     // console.log(i)
